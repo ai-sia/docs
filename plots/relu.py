@@ -12,7 +12,7 @@ plt.plot(y, relu(y))
 
 plt.xlabel('y')
 plt.ylabel('Aktivierung')
-plt.title('ReLu Aktivierungsfunktion')
+plt.title('ReLU Aktivierungsfunktion')
 
 plt.savefig('img/relu.png')
 
